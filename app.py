@@ -143,7 +143,7 @@ if not client.is_user_authorized():
 
 
 TakeAllMember()
-#entermember(pd.read_csv("members.csv"))
+entermember(pd.read_csv("members.csv"))
 
 
 
